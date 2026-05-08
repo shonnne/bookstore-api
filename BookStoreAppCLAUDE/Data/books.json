@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 2,
+    "Name": "The Pragmatic Programmer",
+    "Author": "Andrew Hunt",
+    "Price": 29.99,
+    "LoanPrice": 7.99,
+    "IsAvailable": true,
+    "IsLoaned": false,
+    "LoanedBy": null,
+    "LoanDate": null,
+    "DueDate": null,
+    "BoughtBy": null
+  },
+  {
+    "Id": 3,
+    "Name": "Design Patterns",
+    "Author": "Gang of Four",
+    "Price": 29.99,
+    "LoanPrice": 7.99,
+    "IsAvailable": true,
+    "IsLoaned": false,
+    "LoanedBy": null,
+    "LoanDate": null,
+    "DueDate": null,
+    "BoughtBy": null
+  },
+  {
+    "Id": 4,
+    "Name": "Programming intro",
+    "Author": "Marko Markovic",
+    "Price": 19.99,
+    "LoanPrice": 2.99,
+    "IsAvailable": true,
+    "IsLoaned": false,
+    "LoanedBy": null,
+    "LoanDate": null,
+    "DueDate": null,
+    "BoughtBy": null
+  },
+  {
+    "Id": 5,
+    "Name": "prog",
+    "Author": "MARKO",
+    "Price": 12.99,
+    "LoanPrice": 1.99,
+    "IsAvailable": true,
+    "IsLoaned": false,
+    "LoanedBy": null,
+    "LoanDate": null,
+    "DueDate": null,
+    "BoughtBy": null
+  }
+]

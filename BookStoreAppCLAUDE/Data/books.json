@@ -5,11 +5,11 @@
     "Author": "Andrew Hunt",
     "Price": 29.99,
     "LoanPrice": 7.99,
-    "IsAvailable": true,
-    "IsLoaned": false,
-    "LoanedBy": null,
-    "LoanDate": null,
-    "DueDate": null,
+    "IsAvailable": false,
+    "IsLoaned": true,
+    "LoanedBy": "shone",
+    "LoanDate": "2026-05-20T23:29:10.328385+02:00",
+    "DueDate": "2026-06-03T23:29:10.3283894+02:00",
     "BoughtBy": null
   },
   {
@@ -18,12 +18,12 @@
     "Author": "Gang of Four",
     "Price": 29.99,
     "LoanPrice": 7.99,
-    "IsAvailable": true,
+    "IsAvailable": false,
     "IsLoaned": false,
     "LoanedBy": null,
     "LoanDate": null,
     "DueDate": null,
-    "BoughtBy": null
+    "BoughtBy": "shone"
   },
   {
     "Id": 4,
